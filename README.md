@@ -1,1 +1,1 @@
-# IA-Intelig-nciaArtificial
+# IA-Inteligência-Artificial
